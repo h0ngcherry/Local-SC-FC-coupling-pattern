@@ -22,7 +22,7 @@ pip install dice-ml
 ### How to run
 
 ```sh
-python -m subgraph_extraction -s [minsup] -l [vertex_lower_limit] -u [vertex_upper_limit]
+python -m subgraph_extraction -s [minsup] -l [vertex_lower_limit] -u [vertex_upper_limit] ./graphdata/test_graph.txt
 python -m subgraph_extraction -s 2 -l 3 -u 4 ./graphdata/test_graph.txt
 ```
 
