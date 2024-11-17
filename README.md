@@ -27,15 +27,15 @@ python -m subgraph_extraction -s 2 -l 3 -u 4 ./graphdata/test_graph.txt
 ```
 
 ### Reference
-- [Paper](https://pure.mpg.de/rest/items/item_1790437/component/file_3075625/content)
+- [1][Paper](https://pure.mpg.de/rest/items/item_1790437/component/file_3075625/content)
 
 Tsuda, Koji. "Entire regularization paths for graph data." Proceedings of the 24th international conference on Machine learning. 2007.
 
-- [Paper](http://www.cs.ucsb.edu/~xyan/papers/gSpan-short.pdf)
+- [2][Paper](http://www.cs.ucsb.edu/~xyan/papers/gSpan-short.pdf)
 
 Yan, Xifeng, and Jiawei Han. "gspan: Graph-based substructure pattern mining." 2002 IEEE International Conference on Data Mining, 2002. Proceedings.. IEEE, 2002.
 
-- [Paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850)
+- [3][Paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850)
 
 Mothilal, Ramaravind K., Amit Sharma, and Chenhao Tan. "Explaining machine learning classifiers through diverse counterfactual explanations." Proceedings of the 2020 conference on fairness, accountability, and transparency. 2020.
 
