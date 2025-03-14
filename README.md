@@ -6,7 +6,7 @@
 The data is not publicly available due to permission reasons. The data are available from the corresponding author on reasonable request.
 
 ### Counterfactual Explanation
-The counterfactual interpretation based on local SC-FC coupling is based on the DiCE framework. We only give the relevant test code here, and the detailed code will be updated after the paper is accepted. For more details, please visit: https://github.com/interpretml/DiCE.
+The counterfactual interpretation based on local SC-FC coupling is based on the DiCE framework. For more details, please visit: https://github.com/interpretml/DiCE.
 
 ### How to install
 
